@@ -1,4 +1,3 @@
-# Syed-Hussain-Andrabi
 # 👋 Hello! I'm Syed Hussain Andrabi
 
 🎨 Full-stack Developer | 🖌️ Artist | 💻 Django Expert
